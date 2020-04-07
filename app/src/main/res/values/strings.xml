@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Juice of Love</string>
+    <string name="app_name">Heart Tower</string>
 
     <string name="top_login_text">Login</string>
-    <string name="login">Логин</string>
-    <string name="Pass">Пароль</string>
+    <string name="login">Login</string>
+    <string name="Pass">Password</string>
     <string name="login_button_text">Войти</string>
     <string name="remember_password">Забыли пароль?</string>
     <string name="or_sing_up_using">Или войдите используя</string>
@@ -15,9 +15,9 @@
     <string name="profile">ПРОФИЛЬ</string>
     <string name="articles">СТАТЬИ</string>
     <string name="launch_error_message">Ошибка получения данных</string>
-    <string name="type_mail">Введите почту</string>
+    <string name="type_mail">Введите email</string>
     <string name="type_phone">Введите номер телефона</string>
-    <string name="mail">Почта</string>
+    <string name="mail">Email</string>
     <string name="phone">Номер телефона</string>
     <string name="gender">Пол</string>
     <string name="recovery">востановить</string>

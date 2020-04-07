@@ -4,7 +4,7 @@
     <item
         android:drawable="@drawable/main_back"/>
 
-    <item android:drawable="@drawable/logo_ff"
+    <item android:drawable="@drawable/ic_heart_tower"
         android:gravity="center"/>
 
 </layer-list>

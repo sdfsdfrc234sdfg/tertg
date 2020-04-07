@@ -1,5 +1,5 @@
 <resources>
-    <string name = "app_name"> Saft der Liebe </string>
+    <string name = "app_name">Heart Tower</string>
 
         <string name = "top_login_text"> Login </string>
         <string name = "login"> Login </string>

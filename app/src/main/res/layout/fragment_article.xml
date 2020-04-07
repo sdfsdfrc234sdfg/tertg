@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         tools:context=".ArticleFragment">
 
-        <com.juice.oflove.util.TopCropImageView
+        <com.heart.tower.util.TopCropImageView
             android:id="@+id/article_img"
             android:layout_width="0dp"
             android:layout_height="0dp"

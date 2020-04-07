@@ -3,6 +3,8 @@
     android:shape="rectangle">
 
     <corners android:radius="20dp"/>
-    <solid android:color="@color/search_back"/>
-
+    <stroke
+        android:color="@color/dark_white_back"
+        android:width="2dp"
+        />
 </shape>
